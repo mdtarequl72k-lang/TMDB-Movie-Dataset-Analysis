@@ -1,5 +1,5 @@
 # TMDB-Movie-Dataset-Analysis
-
+# 🎬 TMDB Movies Data Analysis & Insights
 Welcome! This repository contains my movie data analysis project based on data extracted from **TMDB (The Movie Database)** using their API.
 
 ## Project Overview
@@ -74,12 +74,6 @@ Welcome! This repository contains my movie data analysis project based on data e
 
 - Combines **data science skills** (extraction, analysis, visualization) with something fun—movies!
 - Great practice for anyone interested in data analytics, statistics, or the entertainment industry.
-
-
-# 🎬 TMDB Movies Data Analysis & Insights
-
-Unlock the hidden patterns behind blockbuster movies!  
-This repository provides a fully-documented data analytics project exploring real-world movie trends using the TMDB dataset—leveraging Python, statistics, and machine learning to answer “what makes a movie a hit?”
 
 
 ## 💡 What Makes This Project Special?
