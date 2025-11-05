@@ -1,5 +1,4 @@
 # TMDB-Movie-Dataset-Analysis
-# 🎬 TMDB Movies Data Analysis & Insights
 Welcome! This repository contains my movie data analysis project based on data extracted from **TMDB (The Movie Database)** using their API.
 
 ## Project Overview
@@ -96,11 +95,11 @@ Welcome! This repository contains my movie data analysis project based on data e
 ## 🙋‍♂️ Author
 
 **Tarequl Islam**  
-BSc in Statistics | Data Science Enthusiast | Sylhet, Bangladesh
+Data Science Enthusiast
+Undergraduate Student in Statistics, SUST, Bangladesh
 
 
 ## 📧 Contact
-
 - Email: mdtarequl72k@gmail.com
 - LinkedIn: Tarequl Islam
 
