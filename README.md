@@ -57,33 +57,24 @@ Welcome! This repository contains my movie data analysis project based on data e
 - **Jupyter Notebook** (for analysis and reporting)
 
 ## 📊 Example Visualizations
-
 - Movie popularity trends over years
 - Top genres per decade
 - Correlation heatmap for all features
 - Rating vs. vote count regression plot
 
-## How to Use
-
-- Clone this repository.
-- Open the notebook `TMDB Movies Project.ipynb` in Jupyter Notebook or Google Colab.
-- Follow through each question and analysis cell to learn insights about movies.
 
 ## Why This Project?
-
 - Combines **data science skills** (extraction, analysis, visualization) with something fun—movies!
 - Great practice for anyone interested in data analytics, statistics, or the entertainment industry.
 
 
 ## 💡 What Makes This Project Special?
-
 - **Clear explanations:** Every step is commented for easy understanding.
-- **Business relevance:** Real-world advice for Netflix, filmmakers, and data professionals.
+- **Business relevance:** Real-world advice for Netflix, filmmakers and data professionals.
 - **Scalable:** Method works for any large movie dataset.
 - **Pro student:** Written for both beginners and aspiring data scientists.
 
 ## 🏁 How to Run
-
 1. Clone this repo:
    ```bash
    git clone https://github.com/<your-repo>/tmdb-movies-analysis.git
@@ -93,18 +84,16 @@ Welcome! This repository contains my movie data analysis project based on data e
 4. Enjoy, learn, and customize for your own studies or projects!
 
 ## 🙋‍♂️ Author
-
 **Tarequl Islam**  
 Data Science Enthusiast
-Undergraduate Student in Statistics, SUST, Bangladesh
+Undergraduate Student in Statistics, SUST, Bangladesh.
 
 
 ## 📧 Contact
 - Email: mdtarequl72k@gmail.com
-- LinkedIn: Tarequl Islam
+- LinkedIn: [Tarequl Islalm(https://www.linkedin.com/in/tarequl-islam-21618636a/)]
 
 ## ⭐️ Contribute / Feedback
-
 For suggestions, pull requests, or collaboration—reach out!  
 Feel free to fork, remix, or build on this project for your classroom, startup, or portfolio.
 
